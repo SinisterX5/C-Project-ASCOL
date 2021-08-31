@@ -6,7 +6,7 @@ int main()
 
     printf("I am Suyog");
 
-
+    printf("I am a new member!");
 
 
     printf("I am Modified Sandesh");
