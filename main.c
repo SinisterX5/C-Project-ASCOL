@@ -1,9 +1,1 @@
-#include <stdio.h>
-
-int main(){
-    printf("Hello world!");
-    printf("This is an edit!");
-printf("This is sandesh");
-    printf("This is Dilasha");
-
-}
+#include<stdio.h>
